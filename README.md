@@ -34,10 +34,8 @@ Ensure you have the following installed:
 - Docker (Optional, for containerized deployment)
 
 ## Setup Instructions
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/Mayank10021/employee-Management-system.git
-   cd employeeManagementsystem
+1. **for visit**
+   https://github.com/Mayank10021
    ```
 2. **Configure the database:**
    - Update `src/main/resources/application.properties` or `application.yml` with your database credentials.
